@@ -1,6 +1,6 @@
-##Mey Risa Handayani
-##NRP : 3124521011
-##IT A
+## Mey Risa Handayani
+## NRP : 3124521011
+## IT A
 
 # Sistem-Bilangan
 Tugas Mata Kuliah Sistem Operasi pada Minggu ke-1
